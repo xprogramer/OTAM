@@ -1,2 +1,2 @@
-# OTAM-
+# OTAM
 Offensive Tamazight corpus
