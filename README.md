@@ -26,6 +26,8 @@ We have implemented a naive classifier based on checking the existence of the le
 
 Besides the naive classifier, we have used well-known ML and DL classifiers as a baseline. More specifically, we have used SVM and Multinomial Naive Bayes classifiers implemented in scikit-learn with default parameters. In addition, we have used FastText with the default parameters to train the model, as well as CNN and BiLSTM.
 
+Table 3. Results produced by different classifiers
+
 | | F-score | Accuracy |
 | ------------- | ------------- | ------------- |
 | LexCheck | 80.77 | 77.95 |
